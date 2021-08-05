@@ -1,0 +1,35 @@
+h1 {
+ color: white;
+}
+
+body {
+ background-color: #c5acbb;
+}
+
+.navbar-header {
+ background-color: #EAEAEA;
+ border: black;
+}
+
+.song_list {
+ list-style: none;
+}
+
+.panel-heading {
+ font-weight: bold;
+ color: red;
+ border: black solid;
+ background-color: #EAEAEA;
+}
+
+.panel-body {
+ border: black solid;
+ background-color: #2E1C2B;
+ color: white;
+}
+
+.jumbotron {
+ background-color: #4A1942;
+ border: solid white;
+ color: white;
+}
